@@ -1,0 +1,2 @@
+# Normalize .java files to LF
+*.java text eol=lf
